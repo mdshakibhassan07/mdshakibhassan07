@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHAKIB HASSAN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&psig=AOvVaw3FVkLIslYNKxw_ZfB16Vmc&ust=1705478386865000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCXnKa44YMDFQAAAAAdAAAAABAD
+![I am GitHub Readme Generator's creator](https://www.lambdatest.com/resources/images/news24.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshakibhassan07&label=Profile%20views&color=0e75b6&style=flat" alt="mdshakibhassan07" /> </p>
 
